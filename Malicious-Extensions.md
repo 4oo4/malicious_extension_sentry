@@ -2,6 +2,34 @@
 
 | Extension ID | Name | Insert Date |
 | ------------- | ---- | ----------- |
+| jmlgkeaofknfmnbpmlmadnfnfajdlehn | AliExpress Deals Countdown - Flash Sale Timer | 02/02/26 |
+| goikoilmhcgfidolicnbgggdpckdcoam | Amazon Character Count & Seller Tools | 02/02/26 |
+| mcaglpclodnaiimhicpjemhcinjfnjce | AliExpress Quick Currency & Price Converter | 02/02/26 |
+| loiofaagnefbonjdjklhacdhfkolcfgi | AliExpress Price Tracker - Price History & Alerts | 02/02/26 |
+| nppjmiadmakeigiagilkfffplihgjlec | BestBuy Search By Image | 02/02/26 |
+| gjlbbcimkbncedhofeknicfkhgaocohl | Shopify Search By Image | 02/02/26 |
+| mpgaodghdhmeljgogbeagpbhgdbfofgb | SHEIN Search By Image | 02/02/26 |
+| mcaihdkeijgfhnlfcdehniplmaapadgb | Walmart Search By Image | 02/02/26 |
+| mjcgfimemamogfmekphcfdehfkkbmldn | Amazon Global Price Checker | 02/02/26 |
+| mabbblhhnmlckjbfppkopnccllieeocp | AliExpress Invoice Generator | 02/02/26 |
+| nhilffccdbcjcnoopblecppbhalagpaf | Amazon BSR Fast View | 02/02/26 |
+| dfnannaibdndmkienngjahldiofjbkmj | Amazon Weight Converter | 02/02/26 |
+| behckapcoohededfbgjgkgefgkpodeho | Amazon Profit Calculator | 02/02/26 |
+| nipfdfkjnidadibpbflijepbllfkokac | Amazon Result Numbering | 02/02/26 |
+| hkhmodcdjhcidbcncgmnknjppphcpgmh | Amazon Sticky Notes | 02/02/26 |
+| ekomkpgkmieaaekmaldmaljljahehkoi | Amazon Keyword Density Searcher | 02/02/26 |
+| jaojpdijbaolkhkifpgbjnhfbmckoojh | Amazon Listing Score Checker | 02/02/26 |
+| hkkkipfcdagiocekjdhobgmlkhejjfoj | Amazon Negative Review Hider | 02/02/26 |
+| cpcojeeblggnjjgnpiicndnahfhjdobd | Amazon Image Downloader | 02/02/26 |
+| gfdbbmngalhmegpkejhidhgdpmehlmnd | Amazon Keyword Cloud Generator | 02/02/26 |
+| aohfjaadlbiifnnajpobdhokecjokhab | Amazon ASIN Copy | 02/02/26 |
+| kppfbknppimnoociaomjcdgkebdmenkh | Amazon Price History Saver | 02/02/26 |
+| johobikccpnmifjjpephegmfpipfbfme | Amazon Stock Checker 999 | 02/02/26 |
+| nigamacoibifjohkmepefofohfedblgg | Amazon Quick Brand Search | 02/02/26 |
+| mnacfoefejolpobogooghoclppjcgfcm | Amazon Product Scraper 10xprofit | 02/02/26 |
+| dnmfcojgjchpjcmjgpgonmhccibjopnb | Amazon Search Suggestion | 02/02/26 |
+| ljcgnobemekghgobhlplpehijemdgcgo | Amazon ASIN Lookup 10xprofit | 02/02/26 |
+| ahlnchhkedmjbdocaamkbmhppnligmoh | 10xprofit Amazon Seller Tools | 02/02/26 |
 | cjobgkekcenldbaenikebmbhffhhffef | Tetrys | 02/05/25 |
 | imkngaibigegepnlckfcbecjoilcjbhf | Stream Video Downloader | 21/01/21 |
 | clabdidkhcmbhkjnggoeecpldlegflmk | Rainbow Wallpapers HD New Tab | 26/07/19 |
@@ -102,20 +130,20 @@
 | nimnhhcainjoacphlmhbkodofenjgobh | Internet Archive Saver | 28/01/26 |
 | ijhbioflmfpgfmgapjnojopobfncdeif | Extension Canva for Chrome \| Design, Art & AI Editor | 28/01/26 |
 | kbaofbaehfbehifbkhplkifihabcicoi | PhotoExpress Editor | 28/01/26 |
-| fmchencccolmmgjmaahfhpglemdcjfll | Translate Selected Text with Right Click | 28/01/26 |
-| fcoongackakfdmiincikmjgkedcgjkdp | Google Translate in Right Click | 28/01/26 |
-| ajbkmeegjnmaggkhmibgckapjkohajim | Cool Cursor | 28/01/26 |
-| jihipmfmicjjpbpmoceapfjmigmemfam | One Key Translate | 28/01/26 |
-| knoibjinlbaolannjalfdjiloaadnknj | Floating Player – PiP Mode | 28/01/26 |
-| bmmchpeggdipgcobjbkcjiifgjdaodng | Color Enhancer | 28/01/26 |
-| onlofoccaenllpjmalbnilfacjmcfhfk | AdBlocker | 28/01/26 |
-| fbobegkkdmmcnmoplkgdmfhdlkjfelnb | Ads Block Ultimate | 28/01/26 |
-| gmciomcaholgmklbfangdjkneihfkddd | RSS Feed | 28/01/26 |
-| dhnibdhcanplpdkcljgmfhbipehkgdkk | Youtube Download | 28/01/26 |
-| obocpangfamkffjllmcfnieeoacoheda | Translate Selected Text with Google | 28/01/26 |
-| ielbkcjohpgmjhoiadncabphkglejgih | Convert Everything | 28/01/26 |
-| kjkhljbbodkfgbfnhjfdchkjacdhmeaf | Full Page Screenshot | 28/01/26 |
-| maiackahflfnegibhinjhpbgeoldeklb | Page Screenshot Clipper | 28/01/26 |
+| fmchencccolmmgjmaahfhpglemdcjfll | # Translate Selected Text with Right Click | 28/01/26 |
+| fcoongackakfdmiincikmjgkedcgjkdp | # Google Translate in Right Click | 28/01/26 |
+| ajbkmeegjnmaggkhmibgckapjkohajim | # Cool Cursor | 28/01/26 |
+| jihipmfmicjjpbpmoceapfjmigmemfam | # One Key Translate | 28/01/26 |
+| knoibjinlbaolannjalfdjiloaadnknj | # Floating Player – PiP Mode | 28/01/26 |
+| bmmchpeggdipgcobjbkcjiifgjdaodng | # Color Enhancer | 28/01/26 |
+| onlofoccaenllpjmalbnilfacjmcfhfk | # AdBlocker | 28/01/26 |
+| fbobegkkdmmcnmoplkgdmfhdlkjfelnb | # Ads Block Ultimate | 28/01/26 |
+| gmciomcaholgmklbfangdjkneihfkddd | # RSS Feed | 28/01/26 |
+| dhnibdhcanplpdkcljgmfhbipehkgdkk | # Youtube Download | 28/01/26 |
+| obocpangfamkffjllmcfnieeoacoheda | # Translate Selected Text with Google | 28/01/26 |
+| ielbkcjohpgmjhoiadncabphkglejgih | # Convert Everything | 28/01/26 |
+| kjkhljbbodkfgbfnhjfdchkjacdhmeaf | # Full Page Screenshot | 28/01/26 |
+| maiackahflfnegibhinjhpbgeoldeklb | # Page Screenshot Clipper | 28/01/26 |
 | jhohjhmbiakpgedidneeloaoloadlbdj | ChatGPT Mods – Folder Voice Download & More Free Tools | 28/01/26 |
 | ioaeacncbhpmlkediaagefiegegknglc | ChatGPT Prompt Manager, Folder, Library, Auto Send – ChatGPT Mods | 28/01/26 |
 | hfdpdgblphooommgcjdnnmhpglleaafj | ChatGPT Token counter – ChatGPT Mods | 28/01/26 |
@@ -131,7 +159,7 @@
 | ifjimhnbnbniiiaihphlclkpfikcdkab | ChatGPT message navigator, history scroller – ChatGPT Mods | 28/01/26 |
 | kefnabicobeigajdngijnnjmljehknjl | ChatGPT pin chat, bookmark – ChatGPT Mods | 28/01/26 |
 | obdobankihdfckkbfnoglefmdgmblcld | ChatGPT voice download, TTS download – ChatGPT Mods | 28/01/26 |
-| lmiigijnefpkjcenfbinhdpafehaddag | ChatGPT folder, voice download, prompt manager, free tools - ChatGPT Mods | 12/01/26 |
+| lmiigijnefpkjcenfbinhdpafehaddag | ChatGPT folder, voice download, prompt manager, free tools – ChatGPT Mods | 12/01/26 |
 | ejmfemchnobpkbmnidhbbledmajpehnp | YouTube Focus Timer & Stats | 28/01/26 |
 | eagiakjmjnblliacokhcalebgnhellfi | WeTab | 28/01/26 |
 | bbddldccjdblblaoagchfccnpcjinnde | NoteMark | 28/01/26 |
@@ -146,7 +174,7 @@
 | ffhcdbebponkjcfbbbbdobicpknmcemf | KeeProx - Digital Gatekeeper | 19/01/26 |
 | gaajcpnkapnemeiohoighjmjknpfcdfd | FreshWipe – Clear Cache & History | 19/01/26 |
 | ffgacbjeplimdnljijmckpmaggjknkgi | JSONLens | 19/01/26 |
-| cpcdkmjddocikjdkbbeiaafnpdbdafmi | NexShield – Advanced Web Guardian | 18/01/26 |
+| cpcdkmjddocikjdkbbeiaafnpdbdafmi | NexShield | 18/01/26 |
 | ijapakghdgckgblfgjobhcfglebbkebf | Tool Access 11 | 18/01/26 |
 | bmodapcihjhklpogdpblefpepjolaoij | Software Access | 18/01/26 |
 | blfehknobghonbjigahfbmmjecooeeja | Video Speed Up Controller for Chrome ⏩ | 18/01/26 |
