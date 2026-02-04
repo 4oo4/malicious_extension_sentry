@@ -12,11 +12,11 @@ I created this project after searching for an updated list of malicious Chrome e
 
 The database is updated daily if new malicious extensions are discovered.
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--02-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--04-blue)
 
 
 
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-342-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-344-red)
 
 
 ## 📰 Recent Security News
