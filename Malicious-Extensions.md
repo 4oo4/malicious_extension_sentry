@@ -1,7 +1,9 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--02-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--04-blue)
 
 | Extension ID | Name | Insert Date |
 | ------------- | ---- | ----------- |
+| ikhpipnkpbedjbmlgppdejmcdnjecded | Bitstamp Wallet | 02/02/26 |
+| llmjkahdkdndnikmnedndgdfbmianaao | Best Web3 Wallet | 02/02/26 |
 | jmlgkeaofknfmnbpmlmadnfnfajdlehn | AliExpress Deals Countdown - Flash Sale Timer | 02/02/26 |
 | goikoilmhcgfidolicnbgggdpckdcoam | Amazon Character Count & Seller Tools | 02/02/26 |
 | mcaglpclodnaiimhicpjemhcinjfnjce | AliExpress Quick Currency & Price Converter | 02/02/26 |
