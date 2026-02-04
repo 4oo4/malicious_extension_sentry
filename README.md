@@ -16,12 +16,13 @@ The database is updated daily if new malicious extensions are discovered.
 
 
 
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-344-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-369-red)
 
 
 ## 📰 Recent Security News
 
 - **2026-01-28**: [Malicious Chrome extensions can spy on your ChatGPT chats](https://www.malwarebytes.com/blog/news/2026/01/malicious-chrome-extensions-can-spy-on-your-chatgpt-chats)
+- **2026-01-27**: [Small Tools, Big Risk: When Browser Extensions Start Stealing API Keys](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys)
 - **2026-01-27**: [Stanley — A $6,000 Russian Malware Toolkit with Chrome Web Store Guarantee](https://www.varonis.com/blog/stanley-malware-kit)
 - **2026-01-27**: [Malicious Chrome Extension Performs Hidden Affiliate Hijacking](https://socket.dev/blog/malicious-chrome-extension-performs-hidden-affiliate-hijacking)
 - **2026-01-26**: [How We Discovered A Campaign of 16 Malicious Extensions Built to Steal ChatGPT Accounts](https://layerxsecurity.com/blog/how-we-discovered-a-campaign-of-16-malicious-extensions-chatgpt/)
