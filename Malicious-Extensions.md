@@ -2,6 +2,71 @@
 
 | Extension ID | Name | Insert Date |
 | ------------- | ---- | ----------- |
+| fjioinpkgmlcioajfnncgldldcnabffe | The Witcher3 Wallpaper HD HomePage | 26/08/25 |
+| bdhjinjoglaijpffoamhhnhooeimgoap | One-Punch Man Wallpaper HD HomePage | 26/08/25 |
+| ikgaleggljchgbihlaanjbkekmmgccam | Totoro Wallpaper HD HomePage | 26/08/25 |
+| bppelgkcnhfkicolffhlkbdghdnjdkhi | JoJo's Bizarre Adventure Wallpaper HomePage | 26/08/25 |
+| ghhddclfklljabeodmcejjjlhoaaiban | Vocaloid Christmas Wallpaper HD HomePage | 26/08/25 |
+| fppchnhginnfabgenhihpncnphhafmac | Spider-Man Wallpaper HD HomePage | 26/08/25 |
+| hbghbdhfibifdgnbpaogepnkekonkdgc | Watch Dogs2 Wallpaper HD HomePage | 26/08/25 |
+| dfakjobhimnibdmkbgpkijoihplhcnil | Lana Del Rey Wallpaper HD HomePage | 26/08/25 |
+| gpolcigkhldaighngmmmcjldkkiaonbg | Autumn Wallpaper HD HomePage | 26/08/25 |
+| dmpceopfiajfdnoiebfankfoabfehdpn | Attack On Titan 8K Wallpaper HD HomePage | 26/08/25 |
+| elckfehnjdbghpoheamjffpdbbogjhie | Lies Of P Wallpaper HD HomePage | 26/08/25 |
+| ekndlocgcngbpebppapnpalpjfnkoffh | Armored Core VI Wallpaper HD HomePage | 26/08/25 |
+| acogeoajdpgplfhidldckbjkkpgeebod | Iron Man Wallpaper HD HomePage | 26/08/25 |
+| klgjbnheihgnmimajhohfcldhfpjnahe | Gal Gadot Wallpaper HD HomePage | 26/08/25 |
+| klggeioacnkkpdcnapgcoicnblliidmf | Mass Effect Wallpaper HD HomePage | 26/08/25 |
+| ncapkionddmdmfocnjfcfpnimepibggf | Alan Wake 2 Wallpaper HD HomePage | 26/08/25 |
+| gbcjipmcpedgndgdnfofbhgnkmghoamm | Jesse Eisenberg Wallpaper HD HomePage | 26/08/25 |
+| pkjfghocapckmendmgdmppjccbplccbg | Amber Heard Wallpaper HD HomePage | 26/08/25 |
+| glfddenhiaacfmhoiebfeljnfkkkmbjb | Messi World Cup Trophy Wallpaper HD HomePage | 26/08/25 |
+| papedehkgfhnagdiempdbhlgcnioofnd | Ahri LOL Wallpaper HD HomePage | 26/08/25 |
+| nemkiffjklgaooligallbpmhdmmhepll | Fiora LOL Wallpaper HD HomePage | 26/08/25 |
+| llilhpmmhicmiaoancaafdgganakopfg | Guardians Of The Galaxy 3 HD HomePage | 26/08/25 |
+| omkjakddaeljdfgekdjebbbiboljnalk | Kendrick Lamar Wallpaper HD HomePage | 26/08/25 |
+| igiakpjhacibmaichhgbagdkjmjbnanl | The Batman 2022 Wallpaper HD HomePage | 26/08/25 |
+| fodcokjckpkfpegbekkiallamhedahjd | Star Wars Jedi Survivor Wallpaper HD HomePage | 26/08/25 |
+| googojfbnbhbbnpfpdnffnklipgifngn | New Year 2024 Wallpaper HD HomePage | 26/08/25 |
+| chmcepembfffejphepoongapnlchjgil | Aquaman And The Lost Kingdom HomePage | 26/08/25 |
+| fjigdpmfeomndepihcinokhcphdojepm | Christian Bale Wallpaper HD HomePage | 26/08/25 |
+| cgehahdmoijenmnhinajnojmmlnipckl | Game Of Thrones 4k Wallpaper HD HomePage | 26/08/25 |
+| dhjmmcjnajkpnbnbpagglbbfpbacoffm | Imogen Poots Wallpaper HD HomePage | 26/08/25 |
+| hjfmkkelabjoojjmjljidocklbibphgl | Delicious in Dungeon Wallpaper HD HomePage | 26/08/25 |
+| iedkeilnpbkeecjpmkelnglnjpnacnlh | Demon Slayer Wallpaper HD HomePage | 26/08/25 |
+| hadkldcldaanpomhhllacdmglkoepaed | Shadow of The Erdtree Messmer HD HomePage | 26/08/25 |
+| fpokgjmlcemklhmilomcljolhnbaaajk | The Last Airbender Wallpaper HD HomePage | 26/08/25 |
+| fkbcbgffcclobgbombinljckbelhnpif | Radagon Elden Ring Wallpaper HD HomePage | 26/08/25 |
+| afooldonhjnhddgnfahlepchipjennab | Roronoa Zoro Wallpaper HD HomePage | 26/08/25 |
+| cgjgmbppcoolfkbkjhoogdpkboohhgel | Sanji One Piece Wallpaper HD HomePage | 26/08/25 |
+| jhgfinhjcamijjoikplacnfknpchndgb | Ducati V4s Wallpaper HD HomePage | 26/08/25 |
+| idjhfmgaddmdojcfmhcjnnbhnhbmhipd | Devil May Cry 5 Nero Wallpaper HD HomePage | 26/08/25 |
+| ibfpbjfnpcgmiggfildbcngccoomddmj | Bad Bunny Wallpaper HD HomePage | 26/08/25 |
+| boiciofdokedkpmopjnghpkgdakmcpmb | Devil May Cry Dante Wallpaper HD HomePage | 26/08/25 |
+| hfeialplaojonefabmojhobdmghnjkmf | Melina Elden Ring Wallpaper HD HomePage | 26/08/25 |
+| ghaggkcfafofhcfppignflhlocmcfimd | Granblue Fantasy：Relink Wallpaper HD HomePage | 26/08/25 |
+| bmlifknbfonkgphkpmkeoahgbhbdhebh | Ducati Monster Wallpaper HD HomePage | 26/08/25 |
+| cbkogccidanmoaicgphipbdofakomlak | Taylor Swift Wallpaper HD HomePage | 26/08/25 |
+| domfmjgbmkckapepjahpedlpdedmckbj | Genesis G90 Wallpaper HD HomePage | 26/08/25 |
+| nnceocbiolncfljcmajijmeakcdlffnh | OneTab Plus:Tab Manage & Productivity | 26/08/25 |
+| fcidgbgogbfdcgijkcfdjcagmhcelpbc | Al Pacino Wallpaper HD HomePage | 26/08/25 |
+| oghgaghnofhhoolfneepjneedejcpiic | Sadie Sink Wallpaper HD HomePage | 26/08/25 |
+| gkanlgbbnncfafkhlchnadcopcgjkfli | God of War 5 Valhalla Wallpaper HD HomePage | 26/08/25 |
+| hegpgapbnfiibpbkanjemgmdpmmlecbc | Batman Arkham Origins Wallpaper HD HomePage | 26/08/25 |
+| kgmlodoegkmpfkbepkfhgeldidodgohd | Galaxy Theme Wallpaper HD 4k HomePage | 26/08/25 |
+| fmgfcpjmmapcjlknncjgmbolgaecngfo | Spider-Man Fan Art Wallpaper HD HomePage | 26/08/25 |
+| dbagndmcddecodlmnlcmhheicgkaglpk | Kobe Bryant Wallpaper HD HomePage | 26/08/25 |
+| onifebiiejdjncjpjnojlebibonmnhog | Ironheart Wallpaper HD HomePage | 26/08/25 |
+| ljmcneongnlaecabgneiippeacdoimaa | Ezreal LOL Wallpaper HD HomePage | 26/08/25 |
+| nokknhlkpdfppefncfkdebhgfpfilieo | Genesis G70 Wallpaper HD HomePage | 26/08/25 |
+| fhababnomjcnhmobbemagohkldaeicad | Eva Green Wallpaper HD HomePage | 26/08/25 |
+| nlcebdoehkdiojeahkofcfnolkleembf | Clean Master: the best Edge Cache Cleaner | 17/11/24 |
+| fnnigcfbmghcefaboigkhfimeolhhbcp | Download Manager Pro | 08/08/25 |
+| ipnidmjhnoipibbinllilgeohohehabl | Dream Afar New Tab | 01/12/25 |
+| aadnmeanpbokjjahcnikajejglihibpd | Infinity New Tab | 05/02/26 |
+| hajlmbnnniemimmaehcefkamdadpjlfa | Infinity New Tab (Pro) | 05/02/26 |
+| enkihkfondbngohnmlefmobdgkpmejha | Infinity New Tab for Mobile | 01/12/25 |
+| bpelnogcookhocnaokfpoeinibimbeff | WeTab 新标签页 | 05/02/26 |
 | pdnhdddkoccchmbockecbohnakddkjip | StatisticsWeb - Website Traffic & SEO Checker | 04/02/26 |
 | npbpfkbnfpblnahogmnjiffoimllllek | OKX One-Click Trade | 04/02/26 |
 | calfkdkldagckidpojjehljcfglhfila | DeepSeek AI \| Free AI Assistant | 04/02/26 |
