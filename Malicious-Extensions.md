@@ -1,8 +1,12 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--11-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-718-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--12-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-722-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| kpkcamnbjkdiodpgcengepidppnkjikf | Axiom Enhancer | Store Monitoring | 11/02/26 |
+| egmlbimojingfmchokcniklnhnecdecf | Unseen - Chat Privacy | Store Monitoring | 11/02/26 |
+| eciaojnpihmgkbacgpjnimcpkfeklgag | Ask AI Browser | Store Monitoring | 11/02/26 |
+| pfaidgdipkpofconnnehlpedhhmfdcoa | Garfield Judges You | Store Monitoring | 11/02/26 |
 | dfibabgkjdmbfbknefpabdglfpbmbnhh | TronWallet: Web3 Crypto Wallet | Store Monitoring | 10/02/26 |
 | mfdjdcehbbppoogkamldmbihomamhmca | Search Obituaries | Store Monitoring | 10/02/26 |
 | hdigpgnfpockednepfiinhdjebkmpicn | Delete All Messages | Store Monitoring | 10/02/26 |
