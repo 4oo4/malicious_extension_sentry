@@ -1,6 +1,6 @@
 <a href="https://www.buymeacoffee.com/toborrm9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>   
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--13-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-750-red)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-755-red)
 
 
 # Malicious Chrome/Edge Extensions Database
@@ -121,6 +121,7 @@ python3 malext.py
 
 ## 📰 Recent Security News
 
+- **2026-02-13**: [Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html)
 - **2026-02-13**: [Malicious Chrome Extension Steals Meta Business Manager Exports and TOTP 2FA Seeds](https://socket.dev/blog/malicious-chrome-extension-steals-meta-business-manager-exports-and-totp-2fa-seeds)
 - **2026-02-12**: [AiFrame”- Fake AI Assistant Extensions Targeting 260,000 Chrome Users via injected iframes](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/)
 - **2026-01-28**: [Malicious Chrome extensions can spy on your ChatGPT chats](https://www.malwarebytes.com/blog/news/2026/01/malicious-chrome-extensions-can-spy-on-your-chatgpt-chats)
