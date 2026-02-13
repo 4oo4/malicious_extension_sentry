@@ -1,6 +1,6 @@
 <a href="https://www.buymeacoffee.com/toborrm9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>   
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--12-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-722-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--13-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-750-red)
 
 
 # Malicious Chrome/Edge Extensions Database
