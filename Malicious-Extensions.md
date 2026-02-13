@@ -1,8 +1,36 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--12-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-722-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--13-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-750-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| jkphinfhmfkckkcnifhjiplhfoiefffl | CL Suite | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-steals-meta-business-manager-exports-and-totp-2fa-seeds) | 13/02/26 |
+| fpmkabpaklbhbhegegapfkenkmpipick | Chat GPT for Gmail | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| idhknpoceajhnjokpnbicildeoligdgh | ChatGPT Translation | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| acaeafediijmccnjlokgcdiojiljfpbe | ChatGPT Translate | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| flnecpdpbhdblkpnegekobahlijbmfok | ChatGPT Picture Generator | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| fnjinbdmidgjkpmlihcginjipjaoapol | Email Generator AI | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| ckicoadchmmndbakbokhapncehanaeni | AI Email Writer | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| kepibgehhljlecgaeihhnmibnmikbnga | DeepSeek Download | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| ecikmpoikkcelnakpgaeplcjoickgacj | Ai Picture Generator | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| dbclhjpifdfkofnmjfpheiondafpkoed | Ai Wallpaper Generator | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| ckneindgfbjnbbiggcmnjeofelhflhaj | AI Image Generator Chat GPT | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| cicjlpmjmimeoempffghfglndokjihhn | AI Cover Letter Generator | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| bilfflcophfehljhpnklmcelkoiffapb | AI For Translation | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| cmpmhhjahlioglkleiofbjodhhiejhei | AI Translator | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| lodlcpnbppgipaimgbjgniokjcnpiiad | AI Message Generator | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| hgnjolbjpjmhepcbjgeeallnamkjnfgi | AI Letter Generator | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| gnaekhndaddbimfllbgmecjijbbfpabc | # Ask Gemini | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| fdlagfnfaheppaigholhoojabfaapnhb | # Google Gemini | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| baonbjckakcpgliaafcodddkoednpjgf | # XAI | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| ebmmjmakencgmgoijdfnbailknaaiffh | # Chat With Gemini | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| nkgbfengofophpmonladgaldioelckbe | # Chat Bot GPT | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| pgfibniplgcnccdnkhblpmmlfodijppg | # ChatGBT | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| phiphcloddhmndjbdedgfbglhpkjcffh | # Asking Chat Gpt | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| cgmmcoandmabammnhfnjcakdeejbfimn | # Grok | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| djhjckkfgancelbmgcamjimgphaphjdl | # AI Sidebar | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| fppbiomdkfbhgjjdmojlogeceejinadg | # Gemini AI Sidebar | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| gcfianbpjcfkafpiadmheejkokcmdkjl | # Llama | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| nlhpidbjmmffhoogcennoiopekbiglbp | # AI Assistant | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
 | kpkcamnbjkdiodpgcengepidppnkjikf | Axiom Enhancer | Store Monitoring | 11/02/26 |
 | egmlbimojingfmchokcniklnhnecdecf | Unseen - Chat Privacy | Store Monitoring | 11/02/26 |
 | eciaojnpihmgkbacgpjnimcpkfeklgag | Ask AI Browser | Store Monitoring | 11/02/26 |
@@ -225,7 +253,7 @@
 | akialmafcdmkelghnomeneinkcllnoih | Taylor Swift Wallpaper HD HomePage | [www.koi.ai](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign) |  |
 | ahebpkbnckhgjmndfjejibjjahjdlhdb | Games Search for Chrome™ | [www.koi.ai](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign) |  |
 | agdlpnhabjfcbeiempefhpgikapcapjb | New World Wallpaper HD HomePage | [www.koi.ai](https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign) |  |
-| iaemdpdnmdkaphnmcogmcgcmhhafcifd | Crypto Copilot | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-injects-hidden-sol-fees-into-solana-swaps) |  |
+| iaemdpdnmdkaphnmcogmcgcmhhafcifd | Crypto Copilot | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-injects-hidden-sol-fees-into-solana-swaps) | 25/11/25 |
 | fibemlnkopkeenmmgcfohhcdbkhgbolo | Safery: Ethereum Wallet | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-exfiltrates-seed-phrases) |  |
 | lgnfmkckpppkfbfndcdighighholljcn | Mute All on Meet | [labs.sqrx.com](https://labs.sqrx.com/hidden-in-plain-sight-how-we-followed-one-malicious-extension-to-uncover-a-multi-extension-a6f3f0792b98) |  |
 | khbegeannolbigamjahgggfpnaacbbmb | Axiom Enhancer | [labs.sqrx.com](https://labs.sqrx.com/hidden-in-plain-sight-how-we-followed-one-malicious-extension-to-uncover-a-multi-extension-a6f3f0792b98) |  |
@@ -360,8 +388,8 @@
 | lonfhijnhlpehhmhgekhkmdominoiopi | Grok Search | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
 | nfijbcmjagdmmkchgicfdidblofopkdp | Search with AI on Chrome™ | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
 | kbkajekcpifoekenleplhefobiponkmp | Deepseek Chat | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
-| gghdfkafnhfpaooiolhncejnlgglhkhe | AI Sidebar | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
-| gcdfailafdfjbailcdcbjmeginhncjkb | Grok Chatbot | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
+| gghdfkafnhfpaooiolhncejnlgglhkhe | # AI Sidebar | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
+| gcdfailafdfjbailcdcbjmeginhncjkb | # Grok Chatbot | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
 | hodafefeincjlgijbiabbmaffambjeaa | Grok Sidebar | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
 | mkhdiephfhifcgpmkaaboknnbdpjlneg | DeepSeek Assistant: AI Chat, Minibar, SidePanel &amp; Search | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
 | ifhigdhiifbnjanhacoedbadhmlkjgae | Chat with AI | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
@@ -372,12 +400,12 @@
 | jlbpahgopcmomkgegpbmopfodolajhbl | ChatGPT for Chrome - GPT Search | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
 | hiiildgldbpfbegcfgemoliikibfhaeh | ChatGPT to PDF | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
 | fmncmpginchogfdnjfeopdopoiegjjjp | Search GPT for Chrome | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
-| kblengdlefjpjkekanpoidgoghdngdgl | AI GPT | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
+| kblengdlefjpjkekanpoidgoghdngdgl | AI GPT | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
 | mehpokgiebgcnelgnlfkeldlfnpdhdha | ChatGPT Extension | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
 | feeonheemodpkdckaljcjogdncpiiban | Zuvu AI: The Ultimate AI Agent Sidebar for Google Search &amp; Beyond | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
-| llojfncgbabajmdglnkbhmiebiinohek | ChatGPT Sidebar | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
+| llojfncgbabajmdglnkbhmiebiinohek | # ChatGPT Sidebar | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
 | adjiljljjoeielcjmafljkicjncjpbha | DeepSeek app | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
-| gohgeedemmaohocbaccllpkabadoogpl | DeepSeek Chat | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
+| gohgeedemmaohocbaccllpkabadoogpl | DeepSeek Chat | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
 | giaooddllfkkkblpaedgkhfmhocponbo | DeepSeek v3 | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
 | npphdmcakmfhllhblkealgkeefamebih | Chat GPT 5 | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
 | dcbcnpnaccfjoikaofjgcipcfbmfkpmj | H-Chat Assistant | [www.obsidiansecurity.com](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys) | 04/02/26 |
@@ -511,20 +539,20 @@
 | nimnhhcainjoacphlmhbkodofenjgobh | Internet Archive Saver | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 |
 | ijhbioflmfpgfmgapjnojopobfncdeif |  | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 |
 | kbaofbaehfbehifbkhplkifihabcicoi | PhotoExpress Editor | [layerxsecurity.com](https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/) | 28/01/26 |
-| fmchencccolmmgjmaahfhpglemdcjfll | Translate Selected Text with Right Click | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 28/01/26 |
-| fcoongackakfdmiincikmjgkedcgjkdp | Google Translate in Right Click | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 28/01/26 |
-| ajbkmeegjnmaggkhmibgckapjkohajim | Cool Cursor | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 28/01/26 |
-| jihipmfmicjjpbpmoceapfjmigmemfam | One Key Translate | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 28/01/26 |
-| knoibjinlbaolannjalfdjiloaadnknj | Floating Player – PiP Mode | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 28/01/26 |
-| bmmchpeggdipgcobjbkcjiifgjdaodng | Color Enhancer | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 28/01/26 |
-| onlofoccaenllpjmalbnilfacjmcfhfk | AdBlocker | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 28/01/26 |
-| fbobegkkdmmcnmoplkgdmfhdlkjfelnb | Ads Block Ultimate | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 28/01/26 |
-| gmciomcaholgmklbfangdjkneihfkddd | RSS Feed | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 28/01/26 |
-| dhnibdhcanplpdkcljgmfhbipehkgdkk | Youtube Download | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 28/01/26 |
-| obocpangfamkffjllmcfnieeoacoheda | Translate Selected Text with Google | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 28/01/26 |
-| ielbkcjohpgmjhoiadncabphkglejgih | Convert Everything | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 28/01/26 |
-| kjkhljbbodkfgbfnhjfdchkjacdhmeaf | Full Page Screenshot | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 28/01/26 |
-| maiackahflfnegibhinjhpbgeoldeklb | Page Screenshot Clipper | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 28/01/26 |
+| fmchencccolmmgjmaahfhpglemdcjfll | # Translate Selected Text with Right Click | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 15/01/26 |
+| fcoongackakfdmiincikmjgkedcgjkdp | # Google Translate in Right Click | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 15/01/26 |
+| ajbkmeegjnmaggkhmibgckapjkohajim | # Cool Cursor | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 15/01/26 |
+| jihipmfmicjjpbpmoceapfjmigmemfam | # One Key Translate | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 15/01/26 |
+| knoibjinlbaolannjalfdjiloaadnknj | # Floating Player – PiP Mode | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 15/01/26 |
+| bmmchpeggdipgcobjbkcjiifgjdaodng | # Color Enhancer | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 15/01/26 |
+| onlofoccaenllpjmalbnilfacjmcfhfk | # AdBlocker | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 15/01/26 |
+| fbobegkkdmmcnmoplkgdmfhdlkjfelnb | # Ads Block Ultimate | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 15/01/26 |
+| gmciomcaholgmklbfangdjkneihfkddd | # RSS Feed | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 15/01/26 |
+| dhnibdhcanplpdkcljgmfhbipehkgdkk | # Youtube Download | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 15/01/26 |
+| obocpangfamkffjllmcfnieeoacoheda | # Translate Selected Text with Google | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 15/01/26 |
+| ielbkcjohpgmjhoiadncabphkglejgih | # Convert Everything | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 15/01/26 |
+| kjkhljbbodkfgbfnhjfdchkjacdhmeaf | # Full Page Screenshot | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 15/01/26 |
+| maiackahflfnegibhinjhpbgeoldeklb | # Page Screenshot Clipper | [layerxsecurity.com](https://layerxsecurity.com/blog/browser-extensions-gone-rogue-the-full-scope-of-the-ghostposter-campaign/) | 15/01/26 |
 | jhohjhmbiakpgedidneeloaoloadlbdj | ChatGPT Mods – Folder Voice Download & More Free Tools | [layerxsecurity.com](https://layerxsecurity.com/blog/how-we-discovered-a-campaign-of-16-malicious-extensions-chatgpt/) | 28/01/26 |
 | ioaeacncbhpmlkediaagefiegegknglc | ChatGPT Prompt Manager, Folder, Library, Auto Send - ChatGPT Mods | [layerxsecurity.com](https://layerxsecurity.com/blog/how-we-discovered-a-campaign-of-16-malicious-extensions-chatgpt/) | 28/01/26 |
 | hfdpdgblphooommgcjdnnmhpglleaafj | ChatGPT Token counter - ChatGPT Mods | [layerxsecurity.com](https://layerxsecurity.com/blog/how-we-discovered-a-campaign-of-16-malicious-extensions-chatgpt/) | 28/01/26 |
@@ -555,9 +583,9 @@
 | ffhcdbebponkjcfbbbbdobicpknmcemf | KeeProx - Digital Gatekeeper | Store Monitoring | 19/01/26 |
 | gaajcpnkapnemeiohoighjmjknpfcdfd | FreshWipe – Clear Cache & History | Store Monitoring | 19/01/26 |
 | ffgacbjeplimdnljijmckpmaggjknkgi |  | Store Monitoring | 18/01/26 |
-| cpcdkmjddocikjdkbbeiaafnpdbdafmi | NexShield – Advanced Web Guardian | Store Monitoring | 16/01/26 |
-| ijapakghdgckgblfgjobhcfglebbkebf | Tool Access 11 | Store Monitoring | 16/01/26 |
-| bmodapcihjhklpogdpblefpepjolaoij | Software Access | Store Monitoring | 16/01/26 |
+| cpcdkmjddocikjdkbbeiaafnpdbdafmi | NexShield – Advanced Web Guardian | [www.huntress.com](https://www.huntress.com/blog/malicious-browser-extention-crashfix-kongtuke) | 16/01/26 |
+| ijapakghdgckgblfgjobhcfglebbkebf | Tool Access 11 | [socket.dev](https://socket.dev/blog/5-malicious-chrome-extensions-enable-session-hijacking) | 20/01/26 |
+| bmodapcihjhklpogdpblefpepjolaoij | Software Access | [socket.dev](https://socket.dev/blog/5-malicious-chrome-extensions-enable-session-hijacking) | 20/01/26 |
 | blfehknobghonbjigahfbmmjecooeeja | Video Speed Up Controller for Chrome ⏩ | Store Monitoring | 16/01/26 |
 | bmcnncbmipphlkdmgfbipbanmmfdamkd | FREE VPN - Bypass Site Blocking | [github.com](https://github.com/mallorybowes/chrome-mal-ids) |  |
 | gfjocjagfinihkkaahliainflifnlnfc | VK Music Downloader | [github.com](https://github.com/mallorybowes/chrome-mal-ids) |  |
@@ -626,9 +654,9 @@
 | eppiocemhmnlbhjplcgkofciiegomcon | Urban VPN Proxy | [www.koi.ai](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection) |  |
 | fojomppheellamdaddnbgommepnlkooh | Secured Connection by Security Browse / Browse Securely for Chrome | [arstechnica.com](https://arstechnica.com/security/2025/04/researcher-uncovers-dozens-of-sketchy-chrome-extensions-with-4-million-installs/) |  |
 | oaljkhbgbedmfoiieocoenglpaeogjmf | Safe Search for Chrome / Fire Shield Extension Protection | [arstechnica.com](https://arstechnica.com/security/2025/04/researcher-uncovers-dozens-of-sketchy-chrome-extensions-with-4-million-installs/) |  |
-| mbjjeombjeklkbndcjgmfcdhfbjngcam | Data By Cloud 1 | [socket.dev](https://socket.dev/blog/5-malicious-chrome-extensions-enable-session-hijacking) |  |
-| makdmacamkifdldldlelollkkjnoiedg | Data By Cloud 2 | [socket.dev](https://socket.dev/blog/5-malicious-chrome-extensions-enable-session-hijacking) |  |
-| oldhjammhkghhahhhdcifmmlefibciph | DataByCloud Access | [socket.dev](https://socket.dev/blog/5-malicious-chrome-extensions-enable-session-hijacking) |  |
+| mbjjeombjeklkbndcjgmfcdhfbjngcam | Data By Cloud 1 | [socket.dev](https://socket.dev/blog/5-malicious-chrome-extensions-enable-session-hijacking) | 20/01/26 |
+| makdmacamkifdldldlelollkkjnoiedg | Data By Cloud 2 | [socket.dev](https://socket.dev/blog/5-malicious-chrome-extensions-enable-session-hijacking) | 20/01/26 |
+| oldhjammhkghhahhhdcifmmlefibciph | DataByCloud Access | [socket.dev](https://socket.dev/blog/5-malicious-chrome-extensions-enable-session-hijacking) | 20/01/26 |
 | pppdfgkfdemgfknfnhpkibbkabhghhfh | MEXC API Automator | Store Monitoring | 15/01/26 |
 | didhgeamncokiaegffipckhhcpnmlcbl | ChatGPT Quick Access | [www.esentire.com](https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign) |  |
 | fbmlcbhdmilaggedifpihjgkkmdgeljh | Reader View | [www.esentire.com](https://www.esentire.com/security-advisories/update-malicious-chrome-extension-campaign) |  |
