@@ -7,6 +7,13 @@
 
 An automatically updated database of Chrome extensions removed from the Chrome Web Store for containing malware, policy violation, or bundling unwanted software 
 
+
+## 📖 Overview
+
+This repository maintains a current list of Chrome extensions that have been removed for malware, security violations, or malicious behavior. Since no regularly-updated public database exists for this purpose, this project automates the collection and aggregation of extension removals from multiple sources.
+
+I created this project after searching for an updated list of malicious Chrome extensions and finding that most resources were outdated or incomplete. I'm committed to keeping this database alive and current through automated monitoring and community contributions.
+
 ---
 
 ## 🔍 MalExt Scanner
@@ -110,14 +117,12 @@ python3 malext.py
 
 ---
 
-## 📖 Overview
 
-This repository maintains a current list of Chrome extensions that have been removed for malware, security violations, or malicious behavior. Since no regularly-updated public database exists for this purpose, this project automates the collection and aggregation of extension removals from multiple sources.
-
-I created this project after searching for an updated list of malicious Chrome extensions and finding that most resources were outdated or incomplete. I'm committed to keeping this database alive and current through automated monitoring and community contributions.
 
 ## 📰 Recent Security News
 
+- **2026-02-13**: [Malicious Chrome Extension Steals Meta Business Manager Exports and TOTP 2FA Seeds](https://socket.dev/blog/malicious-chrome-extension-steals-meta-business-manager-exports-and-totp-2fa-seeds)
+- **2026-02-12**: [AiFrame”- Fake AI Assistant Extensions Targeting 260,000 Chrome Users via injected iframes](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/)
 - **2026-01-28**: [Malicious Chrome extensions can spy on your ChatGPT chats](https://www.malwarebytes.com/blog/news/2026/01/malicious-chrome-extensions-can-spy-on-your-chatgpt-chats)
 - **2026-01-27**: [Small Tools, Big Risk: When Browser Extensions Start Stealing API Keys](https://www.obsidiansecurity.com/blog/small-tools-big-risk-when-browser-extensions-start-stealing-api-keys)
 - **2026-01-27**: [Stanley — A $6,000 Russian Malware Toolkit with Chrome Web Store Guarantee](https://www.varonis.com/blog/stanley-malware-kit)
