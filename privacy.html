@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - MalExt Sentry</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #0a0e14;
+            --surface: #111820;
+            --surface-hover: #161e28;
+            --border: #1e2a38;
+            --green: #00e676;
+            --green-dim: #00c853;
+            --green-glow: rgba(0, 230, 118, 0.15);
+            --green-subtle: rgba(0, 230, 118, 0.06);
+            --red: #ff5252;
+            --text: #c8d6e5;
+            --text-dim: #7a8ea0;
+            --text-bright: #e8f0f8;
+            --accent: #00bcd4;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 14px;
+            line-height: 1.7;
+            min-height: 100vh;
+        }
+
+        .scanline-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 1000;
+            background: repeating-linear-gradient(
+                0deg,
+                rgba(0, 0, 0, 0.03) 0px,
+                rgba(0, 0, 0, 0.03) 1px,
+                transparent 1px,
+                transparent 3px
+            );
+        }
+
+        .container {
+            max-width: 780px;
+            margin: 0 auto;
+            padding: 40px 24px 80px;
+        }
+
+        /* Header */
+        .header {
+            border: 1px solid var(--border);
+            background: var(--surface);
+            padding: 32px;
+            margin-bottom: 32px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, var(--green), var(--accent), var(--green));
+        }
+
+        .header-label {
+            font-size: 11px;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            color: var(--green);
+            margin-bottom: 12px;
+            opacity: 0.8;
+        }
+
+        .header h1 {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 28px;
+            font-weight: 700;
+            color: var(--text-bright);
+            margin-bottom: 8px;
+        }
+
+        .header h1 span {
+            color: var(--green);
+        }
+
+        .header .updated {
+            font-size: 12px;
+            color: var(--text-dim);
+        }
+
+        .header .updated time {
+            color: var(--accent);
+        }
+
+        /* Shield icon */
+        .shield {
+            position: absolute;
+            top: 28px;
+            right: 32px;
+            width: 48px;
+            height: 48px;
+            opacity: 0.1;
+        }
+
+        /* Sections */
+        .section {
+            border: 1px solid var(--border);
+            background: var(--surface);
+            margin-bottom: 16px;
+            transition: border-color 0.2s;
+        }
+
+        .section:hover {
+            border-color: rgba(0, 230, 118, 0.2);
+        }
+
+        .section-header {
+            padding: 20px 28px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            cursor: default;
+        }
+
+        .section-icon {
+            font-size: 13px;
+            color: var(--green);
+            flex-shrink: 0;
+            width: 20px;
+            text-align: center;
+        }
+
+        .section-title {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--text-bright);
+        }
+
+        .section-body {
+            padding: 0 28px 24px;
+            padding-left: 60px;
+        }
+
+        .section-body p {
+            margin-bottom: 12px;
+            color: var(--text);
+            font-size: 13px;
+        }
+
+        .section-body p:last-child {
+            margin-bottom: 0;
+        }
+
+        /* Subsection */
+        .subsection-label {
+            font-size: 11px;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            color: var(--accent);
+            margin-bottom: 8px;
+            margin-top: 16px;
+        }
+
+        .subsection-label:first-child {
+            margin-top: 0;
+        }
+
+        /* Highlight box */
+        .highlight {
+            background: var(--green-subtle);
+            border-left: 2px solid var(--green);
+            padding: 12px 16px;
+            margin: 12px 0;
+            font-size: 13px;
+            color: var(--green-dim);
+        }
+
+        .highlight strong {
+            color: var(--green);
+        }
+
+        /* No-collect list */
+        .no-collect {
+            list-style: none;
+            padding: 0;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 6px 16px;
+        }
+
+        .no-collect li {
+            font-size: 12px;
+            color: var(--text-dim);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .no-collect li::before {
+            content: '✕';
+            color: var(--red);
+            font-size: 10px;
+            font-weight: 700;
+            flex-shrink: 0;
+        }
+
+        /* Table */
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 12px;
+            margin: 12px 0;
+        }
+
+        .data-table th {
+            text-align: left;
+            padding: 8px 12px;
+            background: rgba(0, 188, 212, 0.06);
+            color: var(--accent);
+            font-weight: 500;
+            font-size: 11px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .data-table td {
+            padding: 10px 12px;
+            border-bottom: 1px solid var(--border);
+            color: var(--text);
+        }
+
+        .data-table tr:last-child td {
+            border-bottom: none;
+        }
+
+        .data-table code {
+            background: rgba(0, 230, 118, 0.08);
+            color: var(--green);
+            padding: 2px 6px;
+            font-size: 11px;
+            border-radius: 2px;
+        }
+
+        /* Footer */
+        .footer {
+            margin-top: 32px;
+            padding: 24px 28px;
+            border: 1px solid var(--border);
+            background: var(--surface);
+            text-align: center;
+            font-size: 12px;
+            color: var(--text-dim);
+        }
+
+        .footer a {
+            color: var(--accent);
+            text-decoration: none;
+            border-bottom: 1px solid rgba(0, 188, 212, 0.3);
+            transition: border-color 0.2s;
+        }
+
+        .footer a:hover {
+            border-color: var(--accent);
+        }
+
+        .footer .project-name {
+            color: var(--green);
+            font-weight: 500;
+        }
+
+        /* Responsive */
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px 12px 60px;
+            }
+
+            .header {
+                padding: 24px 20px;
+            }
+
+            .header h1 {
+                font-size: 22px;
+            }
+
+            .shield {
+                display: none;
+            }
+
+            .section-header {
+                padding: 16px 20px;
+            }
+
+            .section-body {
+                padding: 0 20px 20px;
+                padding-left: 20px;
+            }
+
+            .no-collect {
+                grid-template-columns: 1fr;
+            }
+
+            .data-table {
+                font-size: 11px;
+            }
+
+            .data-table th,
+            .data-table td {
+                padding: 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="scanline-overlay"></div>
+
+    <div class="container">
+
+        <!-- Header -->
+        <div class="header">
+            <svg class="shield" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="color: var(--green);">
+                <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+                <path d="M9 12l2 2 4-4"/>
+            </svg>
+            <div class="header-label">// privacy policy</div>
+            <h1><span>MalExt</span> Sentry</h1>
+            <div class="updated">Last updated: <time datetime="2026-02-14">February 14, 2026</time></div>
+        </div>
+
+        <!-- Overview -->
+        <div class="section">
+            <div class="section-header">
+                <div class="section-icon">&#9656;</div>
+                <div class="section-title">Overview</div>
+            </div>
+            <div class="section-body">
+                <p>MalExt Sentry is a browser extension that checks your installed extensions against a public database of known malicious extensions. Your privacy is fundamental to how this extension is built.</p>
+            </div>
+        </div>
+
+        <!-- Data We Access -->
+        <div class="section">
+            <div class="section-header">
+                <div class="section-icon">&#9656;</div>
+                <div class="section-title">Data We Access</div>
+            </div>
+            <div class="section-body">
+                <div class="subsection-label">Installed Extensions List</div>
+                <p>We use Chrome's <code>management</code> API to read the list of extensions installed in your browser. This data is <strong>only used locally</strong> to compare extension IDs against the public threat database.</p>
+                <div class="highlight">
+                    <strong>This data is never transmitted, collected, stored on any server, or shared with any third party.</strong>
+                </div>
+
+                <div class="subsection-label">Threat Database</div>
+                <p>The extension fetches a publicly available CSV file from GitHub (<code>raw.githubusercontent.com</code>) containing known malicious extension IDs. This is a one-way download only. No information about you or your extensions is sent in this request. The database is cached locally using Chrome's <code>storage</code> API to reduce network requests.</p>
+            </div>
+        </div>
+
+        <!-- Data We Do NOT Collect -->
+        <div class="section">
+            <div class="section-header">
+                <div class="section-icon">&#9656;</div>
+                <div class="section-title">Data We Do NOT Collect</div>
+            </div>
+            <div class="section-body">
+                <ul class="no-collect">
+                    <li>Personally identifiable information</li>
+                    <li>Browsing history or activity</li>
+                    <li>Analytics or telemetry</li>
+                    <li>Cookies or fingerprinting</li>
+                    <li>Extension names or metadata</li>
+                    <li>Data sold or shared with third parties</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Data Storage -->
+        <div class="section">
+            <div class="section-header">
+                <div class="section-icon">&#9656;</div>
+                <div class="section-title">Data Storage</div>
+            </div>
+            <div class="section-body">
+                <p>A cached copy of the public threat database is stored locally in Chrome's extension storage (<code>chrome.storage.local</code>). No data is stored on external servers.</p>
+            </div>
+        </div>
+
+        <!-- Network Requests -->
+        <div class="section">
+            <div class="section-header">
+                <div class="section-icon">&#9656;</div>
+                <div class="section-title">Network Requests</div>
+            </div>
+            <div class="section-body">
+                <p>The extension makes exactly <strong>one type</strong> of network request:</p>
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>Destination</th>
+                            <th>Purpose</th>
+                            <th>Frequency</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><code>raw.githubusercontent.com</code></td>
+                            <td>Download the public malicious extension ID list</td>
+                            <td>On install, every 6 hours, and on manual rescan</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p>No user data is included in this request.</p>
+            </div>
+        </div>
+
+        <!-- Permissions -->
+        <div class="section">
+            <div class="section-header">
+                <div class="section-icon">&#9656;</div>
+                <div class="section-title">Permissions Justification</div>
+            </div>
+            <div class="section-body">
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>Permission</th>
+                            <th>Reason</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><code>management</code></td>
+                            <td>Read installed extensions to check against the threat database</td>
+                        </tr>
+                        <tr>
+                            <td><code>storage</code></td>
+                            <td>Cache the threat database locally to reduce network requests</td>
+                        </tr>
+                        <tr>
+                            <td><code>alarms</code></td>
+                            <td>Schedule periodic background scans (every 6 hours)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Changes -->
+        <div class="section">
+            <div class="section-header">
+                <div class="section-icon">&#9656;</div>
+                <div class="section-title">Changes to This Policy</div>
+            </div>
+            <div class="section-body">
+                <p>Any changes to this privacy policy will be reflected in this document with an updated date. Continued use of the extension after changes constitutes acceptance.</p>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <span class="project-name">MalExt Sentry</span> &middot; Open Source Threat Intelligence<br>
+            Questions? <a href="https://github.com/toborrm9/malicious_extension_sentry/issues" target="_blank" rel="noopener">Open an issue on GitHub</a>
+        </div>
+
+    </div>
+</body>
+</html>
