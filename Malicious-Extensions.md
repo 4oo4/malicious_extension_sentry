@@ -1,8 +1,13 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--13-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-755-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--15-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-760-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| lbokgbjpgnklhppkijiojhlefopnhegb | Sleeping pikachu wallpaper | Store Monitoring | 13/02/26 |
+| hffnjemmnepkggdecfbgmfbmncponjco | Hill Climb Racing Lite Game | Store Monitoring | 13/02/26 |
+| fpafokmkjcnkflboiefkiokbklpjbfpp | Hill Climb Racing Game Online | Store Monitoring | 13/02/26 |
+| dehblkalhcpijgblbakdkofmlfpklkjj | Pokemon Theme | Store Monitoring | 13/02/26 |
+| jdfhogfabmocclgjnkfhokhaoecbmijj | Hill Climb Racing Unblocked | Store Monitoring | 13/02/26 |
 | pcdgkgbadeggbnodegejccjffnoakcoh | VKfeed - Download music and video from VK | [thehackernews.com](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) | 13/02/26 |
 | bndkfmmbidllaiccmpnbdonijmicaafn | vksaver - music saver vk | [thehackernews.com](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) | 13/02/26 |
 | lgakkahjfibfgmacigibnhcgepajgfdb | Music Downloader - VKsaver | [thehackernews.com](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) | 13/02/26 |
