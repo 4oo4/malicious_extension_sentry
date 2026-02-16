@@ -1,8 +1,12 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--15-blue)
-![Last Updated](https://img.shields.io/badge/Total%20Extensions-760-red)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--16-blue)
+![Last Updated](https://img.shields.io/badge/Total%20Extensions-764-red)
 
 | Extension ID | Name | Source | Insert Date |
 | ------------- | ---- | ------ | ----------- |
+| mlaonedihngoginmmlaacpihnojcoocl | PageGuard - Phishing Protection | Store Monitoring | 15/02/26 |
+| linflaofbnlhpakjpohmfnkkkmpngnck | Market Owl — Smart Crypto Dashboard | Store Monitoring | 15/02/26 |
+| pmjfbdnpbhfgeioabfahbheefebeiehp | Contrast Flip - Smart Theme Control | Store Monitoring | 16/02/26 |
+| glbinjackcjdkljjkochlgfheebjongh | Higgsfield Prompt Saver | Store Monitoring | 15/02/26 |
 | lbokgbjpgnklhppkijiojhlefopnhegb | Sleeping pikachu wallpaper | Store Monitoring | 13/02/26 |
 | hffnjemmnepkggdecfbgmfbmncponjco | Hill Climb Racing Lite Game | Store Monitoring | 13/02/26 |
 | fpafokmkjcnkflboiefkiokbklpjbfpp | Hill Climb Racing Game Online | Store Monitoring | 13/02/26 |
@@ -13,7 +17,7 @@
 | lgakkahjfibfgmacigibnhcgepajgfdb | Music Downloader - VKsaver | [thehackernews.com](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) | 13/02/26 |
 | mflibpdjoodmoppignjhciadahapkoch | VK Music - audio saver | [thehackernews.com](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) | 13/02/26 |
 | ceibjdigmfbbgcpkkdpmjokkokklodmc | VK Styles - Themes for vk.com | [thehackernews.com](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) | 13/02/26 |
-| jkphinfhmfkckkcnifhjiplhfoiefffl | CL Suite | [socket.dev](https://socket.dev/blog/malicious-chrome-extension-steals-meta-business-manager-exports-and-totp-2fa-seeds) | 13/02/26 |
+| jkphinfhmfkckkcnifhjiplhfoiefffl | CL Suite by @CLMasters | Store Monitoring | 15/02/26 |
 | fpmkabpaklbhbhegegapfkenkmpipick | Chat GPT for Gmail | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
 | idhknpoceajhnjokpnbicildeoligdgh | ChatGPT Translation | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
 | acaeafediijmccnjlokgcdiojiljfpbe | ChatGPT Translate | [layerxsecurity.com](https://layerxsecurity.com/blog/aiframe-fake-ai-assistant-extensions-targeting-260000-chrome-users-via-injected-iframes/) | 12/02/26 |
